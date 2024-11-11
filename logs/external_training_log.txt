@@ -1,0 +1,4 @@
+2024-11-11 14:01:11,695 - Traceback (most recent call last):
+2024-11-11 14:01:11,696 - File "C:\Users\rumay\Desktop\DL_homeworks\Homework_9\src\train.py", line 7, in <module>
+2024-11-11 14:01:11,696 - from src.data.preprocess_data import preprocess_data
+2024-11-11 14:01:11,696 - ModuleNotFoundError: No module named 'src'
